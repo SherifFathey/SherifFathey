@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alfa+Slab+One&size=25&letterSpacing=1px&pause=1000&color=9A9A9A&center=true&vCenter=true&width=600&height=90&lines=Hello!%F0%9F%91%8B;I'm+Sharif+Fathey;Software+Robotics+Engineer%F0%9F%A4%96;Nice+To+Meet+You%F0%9F%98%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alfa+Slab+One&size=25&letterSpacing=1px&pause=1000&color=9A9A9A&center=true&vCenter=true&width=600&height=90&lines=Hello!%F0%9F%91%8B;I'm+Sharif+Fathey;Robotics+Software+Engineer%F0%9F%A4%96;Nice+To+Meet+You%F0%9F%98%8D)](https://git.io/typing-svg)
 
 
 
